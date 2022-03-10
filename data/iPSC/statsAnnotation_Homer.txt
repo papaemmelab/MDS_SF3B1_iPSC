@@ -1,0 +1,6 @@
+Annotation	Number.of.peaks
+TTS	155
+Exon	119
+Intron	1726
+Intergenic	1438
+Promoter	299
