@@ -1,4 +1,4 @@
-donor21_Normal_sample21_14	donor21_Normal_sample21_6	donor21_MDS_sample21_16	donor21_MDS_sample21_29	donor21_MDS_sample21_31	donor22_Normal_sample22_22	donor22_Normal_sample22_27	donor22_Normal_sample22_45	donor22_MDS_sample22_44b	donor23_Normal_sample23_13	donor23_Normal_sample23_28	donor23_Normal_sample23_5	donor23_MDS_sample23_24	donor23_MDS_sample23_38	donor23_MDS_sample23_6
+donor21.N21_14	donor21.N21_6	donor21.MDS21_16	donor21.MDS21_29	donor21.MDS21_31	donor22.N22_22	donor22.N22_27	donor22.N22_45	donor22.MDS22_44	donor23.N23_13	donor23.N23_28	donor23.N23_5	donor23.MDS23_24	donor23.MDS23_38	donor23.MDS23_6
 1.752353.752926	72	54	24	30	24	40	73	38	6	41	47	60	22	6	24
 1.2209555.2211522	195	142	870	467	174	125	306	200	165	339	188	202	187	302	416
 1.2253517.2254389	43	58	246	99	88	30	32	59	71	61	24	47	45	94	87
